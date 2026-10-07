@@ -1,6 +1,3 @@
-# ============================================
-# DESCUBRIDOR DE CANCIONES DE ROCK EN ESPAÑOL
-# Uso de listas, tuplas y sets
 
 # 1. LISTA DE CANCIONES
 # Cada canción es una tupla con:
